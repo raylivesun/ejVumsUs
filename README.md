@@ -62,5 +62,5 @@ int main() {
     return 0;
 }
 ```
-# Example with different parameters
+# install makefile
 $-> make all
